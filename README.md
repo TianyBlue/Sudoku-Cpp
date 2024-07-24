@@ -1,5 +1,5 @@
 ## SudokuCpp 控制台数独游戏
-> 参考了 https://github.com/mayerui/sudoku的实现
+> 参考了 https://github.com/mayerui/sudoku 的实现
 
 ### 编译
 要求编译器为支持C++20(主要是std::format)的MSVC或GCC编译器。
